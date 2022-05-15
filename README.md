@@ -8,5 +8,5 @@ TOPHats<br>
 TOPVisors<br>
 TheOtherHats(GMKMにて実装されたので)<br>
 <br>
-対応したい<br>
+対応したいmod一覧<br>
 SuperNewRoles<br>
