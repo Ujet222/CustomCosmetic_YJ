@@ -6,6 +6,7 @@
 既に対応済みの物<br>
 TOPHats<br>
 TOPVisors<br>
+TheOtherHats(GMKMにて実装されたので)<br>
 <br>
-対応する予定の物<br>
-TheOtherHats(作り方教えてください)<br>
+対応したい<br>
+SuperNewRoles<br>
