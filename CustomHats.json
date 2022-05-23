@@ -1,0 +1,199 @@
+{
+    "hats": [
+        {
+            "name": "私は寝ていません",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "eyemaskzzz_adaptive.png",
+            "flipresource": "eyemaskzzz_flip_adaptive.png",
+            "climbresource": "eyemaskzzz_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "どんな状況でもプレイ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "RedPlay.png",
+            "climbresource": "RedPlay_climb.png"
+        },
+        {
+            "name": "ダブルキラー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "DoubleGun_adaptive.png",
+            "backresource": "DoubleGun_back_adaptive.png",
+            "climbresource": "DoubleGun_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ちょっと武器庫で借りてきた",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "AK.png",
+            "climbresource": "AK_climb.png"
+        },
+        {
+            "name": "双葉アホ毛",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "AhogeFutaba_adaptive.png",
+            "climbresource": "AhogeFutaba_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "認証バッジ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Ninsho-badge_adaptive.png",
+            "flipresource": "Ninsho-badge_flip_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "USBハッカー",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "hacker_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "スターロッド",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "StarRod.png",
+            "climbresource": "StarRod_climb.png"
+        },
+        {
+            "name": "おにぎり",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "onigiri.png",
+            "climbresource": "onigiri_climb.png"
+        },
+        {
+            "name": "サンドイッチ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Hamsand.png",
+            "climbresource": "Hamsand_climb.png"
+        },
+        {
+            "name": "4号",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "koronba4gou.png",
+            "flipresource": "koronba4gou_flip.png"
+        },
+        {
+            "name": "まだですか?",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "madadesuka_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "宇宙人だよ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "nayutan_adaptive.png",
+            "climbresource": "nayutan_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "軟禁コースター管理者",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "nobaman.png",
+            "climbresource": "nobaman_climb.png"
+        },
+        {
+            "name": "テルミービート",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "tellmebeat.png",
+            "climbresource": "tellmebeat_climb.png"
+        },
+        {
+            "name": "配信中",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Live_adaptive.png",
+            "climbresource": "Live_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "ょぅじょ",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "YoJo.png",
+            "climbresource": "YoJo_climb.png"
+        },
+        {
+            "name": "自分へ催眠術",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Saimin_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "サイリウム",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sairiumu_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "モップ掛けを忘れずに",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sub_Mop_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "酸素をとっておこう",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sub_o2.png",
+        },
+        {
+            "name": "観光には水分補給",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sub_water_adaptive.png",
+            "backresource": "Sub_water_back.png",
+            "adaptive": true
+        },
+        {
+            "name": "みょみょみょみょ～ん",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Myon.png",
+            "backresource": "Myon_back.png",
+            "climbresource": "Myon_climb.png",
+        },
+        {
+            "name": "小5+ロリ=悟り",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Satori.png",
+            "climbresource": "Satori_climb.png",
+        },
+        {
+            "name": "スタンド:インポスター",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "Stand_adaptive.png",
+            "backresource": "Stand_adaptive_back.png",
+            "flipresource": "Stand_adaptive_flip.png",
+            "adaptive": true
+        },
+        {
+            "name": "ECHO",
+            "author": "やちゃじゃくや",
+            "condition": "None",
+            "resource": "ECHO_adaptive.png",
+            "flipresource": "ECHO_adaptive_flip.png",
+            "climbresource": "ECHO_climb.png",
+            "adaptive": true
+        }
+    ]
+}
