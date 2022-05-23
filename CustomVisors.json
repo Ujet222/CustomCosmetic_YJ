@@ -1,0 +1,141 @@
+{
+    "hats": [
+        {
+            "name": "2\u9032\u6570\u306e\u52d5\u4f5c",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "01001001.png",
+            "reshasha": "ab74c78c666f7245cebb8c9493d3a6ec"
+        },
+        {
+            "name": "HP",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "HP.png",
+            "reshasha": "1d9e3774369bb1fe4fc188cbd6807d9c"
+        },
+        {
+            "name": "NO\u3068\u8a00\u308f\u306a\u3051\u308c\u3070",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "no.png",
+            "reshasha": "1e8c37a32a8c5bf3f53f0eb2f1baa984"
+        },
+        {
+            "name": "OK\u3057\u3088\u3046",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "ok.png",
+            "reshasha": "b36e0c232e95bdb26d1415a81dede986"
+        },
+        {
+            "name": "R18",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "R18.png",
+            "reshasha": "27652fe3a3cde202ed66ebca4d29fb4c"
+        },
+        {
+            "name": "\u3057\u3087\u307c\u3093",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Syobon.png",
+            "reshasha": "5856296e62a5dbcd86caa81c0954c60f"
+        },
+        {
+            "name": "\u306b\u3085\u3093",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Nyun.png",
+            "reshasha": "8f1d16818ff37338522f9676d2c29da1"
+        },
+        {
+        {
+            "name": "\u30b8\u30c8\u76ee",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Jitome.png",
+            "reshasha": "8d23730b317d260795e11173ee7b592a"
+        },
+        {
+            "name": "\u30bf\u30b9\u30afRTA\u8d70\u8005",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "RTA.png",
+            "reshasha": "bd8962ef3ceca3db3684755a1c65a857"
+        },
+        {
+            "name": "\u30c6\u30f3\u30b7\u30e7\u30f3MAX",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "tentionmax.png",
+            "reshasha": "e941f3d566412f9d5a5a719daac187fe"
+        },
+        {
+            "name": "\u30c7\u30a3\u30fc\u30eb\u30e1\u30a4\u30ab\u30fc",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "DealMaker.png",
+            "reshasha": "8263e06e159eef837dbc2b0e7f0ae089"
+        },
+        {
+            "name": "\u4f55\u3082\u8003\u3048\u3066\u306a\u3044",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Dari.png",
+            "reshasha": "34f06a7b82697fbc00dc2b80cc9136f5"
+        },
+        {
+            "name": "\u6012\u3063\u3066\u3057\u307e\u3046",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Ikari.png",
+            "reshasha": "72dadb64fc04531e5e557c9b91818940"
+        },
+        {
+            "name": "\u6700\u521d\u306b\u5fc5\u6bba\u6280\u3092\u51fa\u305b",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "BlueEye.png",
+            "reshasha": "4d04284aeb91f0e1634683b3d96df6c0"
+        },
+        {
+            "name": "\u767d\u685c\u306e\u82b1",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Sakura.png",
+            "reshasha": "44d9c38523e29f3ce16b3019a8c3e7cf"
+        },
+        {
+            "name": "\u7720\u3063\u3066\u3057\u307e\u3046",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "Nemuri.png",
+            "reshasha": "60e3256a5060176528ef35cee76dd0c8"
+        },
+        {
+            "name": "\u8a95\u751f\u65e5\u304a\u3081\u3067\u3068\u3046",
+            "author": "Sakura_Black",
+            "package": "YJBlack",
+            "condition": "None",
+            "resource": "HappyBirthdayToME.png",
+            "reshasha": "86b94134528b282ebe427d98755179b5"
+        }
+    ]
+}
