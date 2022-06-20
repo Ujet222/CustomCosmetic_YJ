@@ -11,3 +11,7 @@ SuperNewRoles<br>
 <br>
 対応したいmod一覧<br>
 今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しい。
+
+credit
+https://fontstruct.com/fontstructions/show/1695563
+ネームプレートで使用
