@@ -8,6 +8,7 @@ TOPHats<br>
 TOPVisors<br>
 TheOtherHats(GMKMにて実装されたので)<br>
 SuperNewRoles<br>
+Extreme Roles＆Extreme Skins<br>
 <br>
 対応したいmod一覧<br>
 今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しい。
