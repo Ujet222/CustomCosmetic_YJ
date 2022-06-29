@@ -3,12 +3,11 @@
 この帽子とバイザーは他modでの使用をしてもよいです。<br>
 このカスタムハット、バイザー、ネームプレートを導入する際、制作者名にSakura_Whiteか、やちゃじゃくやの名義を載せてください。<br>
 <br>
-一部パロディ系があります。なんでも許せる人は大丈夫ですが、MOD導入の際いらないと思うものは削除可能です。
+一部パロディ系があります。なんでも許せる人は大丈夫ですが、MOD導入の際いらないと思うものは削除してもokです。
 <br>
 既に対応済みの物<br>
-TOPHats<br>
-TOPVisors<br>
-TheOtherHats(GMKMにて実装されたので)<br>
+TownOfPlus(2022.6.21未対応)<br>
+TheOtherRolesGMKM(2022.6.21対応予定)<br>
 SuperNewRoles<br>
 Extreme Roles＆Extreme Skins<br>
 <br>
