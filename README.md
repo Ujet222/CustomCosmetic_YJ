@@ -12,8 +12,8 @@ SuperNewRoles<br>
 Extreme Roles＆Extreme Skins<br>
 <br>
 対応したいmod一覧<br>
-今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しい。
-
+今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しい。<br>
+<br>
 credit<br>
 https://fontstruct.com/fontstructions/show/1695563<br>
 ネームプレートで使用
