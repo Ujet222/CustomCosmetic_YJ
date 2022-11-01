@@ -16,7 +16,7 @@ Extreme Roles＆Extreme Skins<br>
 <br>
 credit<br>
 https://fontstruct.com/fontstructions/show/1695563<br>
-ネームプレートで使用
-
+ネームプレートで使用<br>
+<br>
 報告などはこちらからおねがいします。
-[![discordbutton](https://user-images.githubusercontent.com/85453029/199220505-03b196f7-8768-4f6f-aae4-b7f495961ed6.png)](https://discord.gg/8bqV5NCsr8)
+https://discord.gg/8bqV5NCsr8
