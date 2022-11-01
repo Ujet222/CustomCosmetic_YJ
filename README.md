@@ -6,8 +6,8 @@
 一部パロディ系があります。なんでも許せる人は大丈夫ですが、MOD導入の際いらないと思うものは削除してもokです。
 <br>
 既に対応済みの物<br>
-TownOfPlus<br>
-TheOtherRolesGMKM<br>
+TownOfPlus(現在MODの更新が止まっています)<br>
+TheOtherRolesGMKM(開発終了のため追加防止などの実装はありません)<br>
 SuperNewRoles<br>
 Extreme Roles＆Extreme Skins<br>
 <br>
