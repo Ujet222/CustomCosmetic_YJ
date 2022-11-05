@@ -194,6 +194,18 @@ SelfControl_adaptive_climb
 thumbtack
 thumbtack_climb
 
+でかすぎるバーガー
+SuperBurger
+SuperBurger_climb
+
+多すぎるフライドポテト
+SuperPotato
+SuperPotato_climb
+
+いっぱい飲めるコーラ
+SuperCola
+SuperCola_climb
+
 YJ*
 YJ_adaptive
 YJ_adaptive_flip
