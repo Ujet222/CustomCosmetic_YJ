@@ -7,12 +7,12 @@
 <br>
 既に対応済みの物<br>
 TownOfPlus(現在MODの更新が止まっています)<br>
-TheOtherRolesGMKM(開発終了のため追加防止などの実装はありません)<br>
+TheOtherRolesGMKM(開発終了のため追加帽子などの実装はありません)<br>
 SuperNewRoles<br>
 Extreme Roles＆Extreme Skins<br>
 <br>
 対応したいmod一覧<br>
-今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しい。<br>
+今のところなし。実装したい場合は自由にしていいですがDMをくれると嬉しいです。<br>
 <br>
 credit<br>
 https://fontstruct.com/fontstructions/show/1695563<br>
