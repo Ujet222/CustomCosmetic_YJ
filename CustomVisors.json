@@ -1,141 +1,184 @@
 {
-    "hats": [
+    "Visors": [
         {
-            "name": "2\u9032\u6570\u306e\u52d5\u4f5c",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "01001001.png",
-            "reshasha": "ab74c78c666f7245cebb8c9493d3a6ec"
+            "name": "2進数の動作",
+            "author": "やちゃじゃくや",
+            "resource": "01001001.png"
+        },
+        {
+            "name": "最初に必殺技を出せ",
+            "author": "やちゃじゃくや",
+            "resource": "BlueEye.png"
+        },
+        {
+            "name": "何も考えてない",
+            "author": "やちゃじゃくや",
+            "resource": "Dari.png"
+        },
+        {
+            "name": "ディールメイカー",
+            "author": "やちゃじゃくや",
+            "resource": "DealMaker.png"
+        },
+        {
+            "name": "Determination",
+            "author": "やちゃじゃくや",
+            "resource": "Determination.png"
         },
         {
             "name": "HP",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "HP.png",
-            "reshasha": "1d9e3774369bb1fe4fc188cbd6807d9c"
+            "author": "やちゃじゃくや",
+            "resource": "HP.png"
         },
         {
-            "name": "NO\u3068\u8a00\u308f\u306a\u3051\u308c\u3070",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "no.png",
-            "reshasha": "1e8c37a32a8c5bf3f53f0eb2f1baa984"
-        },
-        {
-            "name": "OK\u3057\u3088\u3046",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "ok.png",
-            "reshasha": "b36e0c232e95bdb26d1415a81dede986"
+            "name": "怒ってしまう",
+            "author": "やちゃじゃくや",
+            "resource": "Ikari.png"
         },
         {
             "name": "R18",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "R18.png",
-            "reshasha": "27652fe3a3cde202ed66ebca4d29fb4c"
+            "author": "やちゃじゃくや",
+            "resource": "R18.png"
         },
         {
-            "name": "\u3057\u3087\u307c\u3093",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Syobon.png",
-            "reshasha": "5856296e62a5dbcd86caa81c0954c60f"
+            "name": "タスクRTA走者",
+            "author": "やちゃじゃくや",
+            "resource": "RTA.png"
         },
         {
-            "name": "\u306b\u3085\u3093",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Nyun.png",
-            "reshasha": "8f1d16818ff37338522f9676d2c29da1"
+            "name": "白桜の花",
+            "author": "やちゃじゃくや",
+            "resource": "Sakura.png"
         },
         {
-        {
-            "name": "\u30b8\u30c8\u76ee",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Jitome.png",
-            "reshasha": "8d23730b317d260795e11173ee7b592a"
+            "name": "ジト目",
+            "author": "やちゃじゃくや",
+            "resource": "jitome.png"
         },
         {
-            "name": "\u30bf\u30b9\u30afRTA\u8d70\u8005",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "RTA.png",
-            "reshasha": "bd8962ef3ceca3db3684755a1c65a857"
+            "name": "眠ってしまう",
+            "author": "やちゃじゃくや",
+            "resource": "Nemuri.png"
         },
         {
-            "name": "\u30c6\u30f3\u30b7\u30e7\u30f3MAX",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "tentionmax.png",
-            "reshasha": "e941f3d566412f9d5a5a719daac187fe"
+            "name": "にゅん",
+            "author": "やちゃじゃくや",
+            "resource": "Nyun.png"
         },
         {
-            "name": "\u30c7\u30a3\u30fc\u30eb\u30e1\u30a4\u30ab\u30fc",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "DealMaker.png",
-            "reshasha": "8263e06e159eef837dbc2b0e7f0ae089"
+            "name": "しょぼん",
+            "author": "やちゃじゃくや",
+            "resource": "Syobon.png"
         },
         {
-            "name": "\u4f55\u3082\u8003\u3048\u3066\u306a\u3044",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Dari.png",
-            "reshasha": "34f06a7b82697fbc00dc2b80cc9136f5"
+            "name": "テンションMAX",
+            "author": "やちゃじゃくや",
+            "resource": "tentionmax.png"
         },
         {
-            "name": "\u6012\u3063\u3066\u3057\u307e\u3046",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Ikari.png",
-            "reshasha": "72dadb64fc04531e5e557c9b91818940"
+            "name": "OKしよう",
+            "author": "やちゃじゃくや",
+            "resource": "ok.png"
         },
         {
-            "name": "\u6700\u521d\u306b\u5fc5\u6bba\u6280\u3092\u51fa\u305b",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "BlueEye.png",
-            "reshasha": "4d04284aeb91f0e1634683b3d96df6c0"
+            "name": "NOと言わなければ",
+            "author": "やちゃじゃくや",
+            "resource": "no.png"
         },
         {
-            "name": "\u767d\u685c\u306e\u82b1",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Sakura.png",
-            "reshasha": "44d9c38523e29f3ce16b3019a8c3e7cf"
+            "name": "誕生日おめでとう",
+            "author": "やちゃじゃくや",
+            "resource": "HappyBirthdayToME.png"
         },
         {
-            "name": "\u7720\u3063\u3066\u3057\u307e\u3046",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "Nemuri.png",
-            "reshasha": "60e3256a5060176528ef35cee76dd0c8"
+            "name": "黒目線",
+            "author": "やちゃじゃくや",
+            "resource": "BlackMesen.png"
         },
         {
-            "name": "\u8a95\u751f\u65e5\u304a\u3081\u3067\u3068\u3046",
-            "author": "Sakura_Black",
-            "package": "YJBlack",
-            "condition": "None",
-            "resource": "HappyBirthdayToME.png",
-            "reshasha": "86b94134528b282ebe427d98755179b5"
+            "name": "よく見かけそうなもの",
+            "author": "やちゃじゃくや",
+            "resource": "tabako.png"
+        },
+        {
+            "name": "骨が刺さった",
+            "author": "やちゃじゃくや",
+            "resource": "BoneEye.png"
+        },
+        {
+            "name": "キメ顔",
+            "author": "やちゃじゃくや",
+            "resource": "Kime.png"
+        },
+        {
+            "name": "疑い",
+            "author": "やちゃじゃくや",
+            "resource": "utagaimayu.png"
+        },
+        {
+            "name": "ビッグアイ",
+            "author": "やちゃじゃくや",
+            "resource": "YJBigEye.png"
+        },
+        {
+            "name": "噛むぞ",
+            "author": "やちゃじゃくや",
+            "resource": "Bite.png"
+        },
+        {
+            "name": "口角無限大",
+            "author": "やちゃじゃくや",
+            "resource": "KoukakuInf.png"
+        },
+        {
+            "name": "中からこんにちは",
+            "author": "やちゃじゃくや",
+            "resource": "Nyoki.png"
+        },
+        {
+            "name": "これこそ無表情",
+            "author": "やちゃじゃくや",
+            "resource": "Poyapoya.png"
+        },
+        {
+            "name": "Smile",
+            "author": "やちゃじゃくや",
+            "resource": "SmileSmile.png"
+        },
+        {
+            "name": "範囲選択",
+            "author": "やちゃじゃくや",
+            "resource": "Rangeselection.png"
+        },
+        {
+            "name": "バレバレな口",
+            "author": "やちゃじゃくや",
+            "resource": "ImpMouth.png"
+        },
+        {
+            "name": "へこみ",
+            "author": "やちゃじゃくや",
+            "resource": "hekomi.png"
+        },
+        {
+            "name": "泣き顔",
+            "author": "やちゃじゃくや",
+            "resource": "nakit-t.png"
+        },
+        {
+            "name": "一つ目",
+            "author": "やちゃじゃくや",
+            "resource": "OneEye.png"
+        },
+        {
+            "name": "諦め",
+            "author": "やちゃじゃくや",
+            "resource": "owata.png"
+        },
+        {
+            "name": "ポカーン",
+            "author": "やちゃじゃくや",
+            "resource": "pokan.png"
         }
     ]
 }
