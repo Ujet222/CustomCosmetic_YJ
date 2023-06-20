@@ -64,6 +64,21 @@
             "name": "lwl",
             "author": "やちゃじゃくや",
             "resource": "PInklwl.png"
+        },
+        {
+            "name": "草。",
+            "author": "やちゃじゃくや",
+            "resource": "KUSA.png"
+        },
+        {
+            "name": "ジト目",
+            "author": "やちゃじゃくや",
+            "resource": "Jitome.png"
+        },
+        {
+            "name": "ハッターの証",
+            "author": "やちゃじゃくや",
+            "resource": "HatterPlate.png"
         }
     ]
 }

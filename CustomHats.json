@@ -334,6 +334,216 @@
             "climbresource": "SuperCola_climb.png"
         },
         {
+            "name": "雪堀り",
+            "author": "やちゃじゃくや",
+            "resource": "SnowShavel_adaptive.png",
+            "climbresource": "SnowShavel_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "火で温まる",
+            "author": "やちゃじゃくや",
+            "resource": "FireStick_adaptive.png",
+            "climbresource": "FireStick_adaptive_climb.png",
+            "adaptive": true
+        },
+        {
+            "name": "まぐろ",
+            "author": "やちゃじゃくや",
+            "resource": "MaguroSUSHI.png",
+            "climbresource": "MaguroSUSHI_climb.png"
+        },
+        {
+            "name": "たまご",
+            "author": "やちゃじゃくや",
+            "resource": "TamagoSUSHI.png",
+            "climbresource": "TamagoSUSHI_climb.png"
+        },
+        {
+            "name": "サーモン",
+            "author": "やちゃじゃくや",
+            "resource": "SalmonSUSHI.png",
+            "climbresource": "SalmonSUSHI_climb.png"
+        },
+        {
+            "name": "イカ",
+            "author": "やちゃじゃくや",
+            "resource": "IkaSUSHI.png",
+            "climbresource": "IkaSUSHI_climb.png"
+        },
+        {
+            "name": "えび",
+            "author": "やちゃじゃくや",
+            "resource": "EbiSUSHI.png",
+            "climbresource": "EbiSUSHI_climb.png"
+        },
+        {
+            "name":"いくら",
+            "author":"やちゃじゃくや",
+            "condition":"None",
+            "resource":"IKURA.png",
+            "climbresource":"IKURA_climb.png"
+        },
+        {
+            "name":"うに",
+            "author":"やちゃじゃくや",
+            "condition":"None",
+            "resource":"UNI.png",
+            "climbresource":"UNI_climb.png"
+        },
+        {
+            "name":"ボム兵",
+            "author":"やちゃじゃくや",
+            "condition":"None",
+            "resource":"BomberHead.png",
+            "climbresource":"BomberHead_climb.png"
+        },
+        {
+            "name":"ハッターシンボル",
+            "author":"やちゃじゃくや",
+            "condition":"None",
+            "resource":"HatterSymbol.png",
+            "climbresource":"HatterSymbol_climb.png"
+        },
+        {
+            "name":"ハッターのぼうし",
+            "author":"やちゃじゃくや",
+            "condition":"None",
+            "resource":"HattersHat.png",
+            "climbresource":"HattersHat_climb.png"
+        },
+        {
+            "name":"はちはち",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "8ee.png",
+            "backresource": "8ee_back.png",
+            "climbresource": "8ee_climb.png"
+        },
+        {
+            "name":"リバース",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "Reverse_Card_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"スキップ",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "Skip_Card_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"サーベル",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "Sarvel_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"波動のパワー",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "PowerHand_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"絵描き",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "PaperHand_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"ASMR",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "ASMR_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name":"ここGuess",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "GuessGuess.png"
+        },
+        {
+            "name":"金の亡者",
+            "author":"やちゃじゃくや",
+            "resource":"Gholdengo.png",
+            "climbresource":"Gholdengo_climb.png"
+        },
+        {
+            "name":"コイン運び屋",
+            "author":"やちゃじゃくや",
+            "resource":"Gimmighoul.png",
+            "climbresource":"Gimmighoul_climb.png"
+        },
+        {
+            "name": "クルーセット",
+            "author": "やちゃじゃくや",
+            "resource": "CrewSet_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "インポスターセット",
+            "author": "やちゃじゃくや",
+            "resource": "ImpSet_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "ミニメイト",
+            "author": "やちゃじゃくや",
+            "resource": "Minimate_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "トランスポーター",
+            "author": "やちゃじゃくや",
+            "resource": "Transport_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "銃と何か",
+            "author": "やちゃじゃくや",
+            "resource": "GunandP_adaptive.png",
+            "adaptive": true
+        },
+        {
+            "name": "引っこ抜かれてもいない",
+            "author": "やちゃじゃくや",
+            "resource": "AmoPikmin_adaptive.png",
+            "climbresource": "AmoPikmin_adaptive_climb.png",
+            "adaptive": true
+        },
+	    {
+            "name": "マント",
+            "author": "やちゃじゃくや",
+            "resource": "Cape_adaptive.png",
+            "climbresource": "Cape_adaptive_climb.png",
+            "adaptive": true,
+            "behind": true
+        },
+    	{
+            "name": "ご安全に",
+            "author": "やちゃじゃくや",
+            "resource": "WorkUs.png",
+            "climbresource": "WorkUs_climb.png"
+        },
+    	{
+            "name": "こっちこっち",
+            "author": "やちゃじゃくや",
+            "resource": "YJCat.png",
+            "climbresource": "YJCat_climb.png"
+        },
+	    {
+            "name": "ハット作者を頭にのせる",
+            "author": "やちゃじゃくや",
+            "resource": "YJRob.png",
+            "climbresource": "YJRob_climb.png"
+        },
+        {
             "name": "白桜",
             "author": "やちゃじゃくや",
             "resource": "SiroSakura_adaptive.png",
@@ -360,6 +570,14 @@
             "climbresource": "YJ_adaptive_climb.png",
             "flipresource": "YJ_adaptive_flip.png",
             "adaptive": true
+        },
+        {
+            "name":"QRコード",
+            "author":"やちゃじゃくや",
+            "condition": "None",
+            "resource": "QRCode_YJCos.png",
+            "flipresource": "QRCode_YJCos_flip.png",
+            "climbresource": "QRCode_YJCos_climb.png"
         }
     ]
 }

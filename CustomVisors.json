@@ -179,6 +179,131 @@
             "name": "ポカーン",
             "author": "やちゃじゃくや",
             "resource": "pokan.png"
+        },
+        {
+            "name": "のれん",
+            "author": "やちゃじゃくや",
+            "resource": "RamenNoren.png"
+        },
+        {
+            "name": "驚かし",
+            "author": "やちゃじゃくや",
+            "resource": "BooFace.png"
+        },
+        {
+            "name": "ぐるぐる",
+            "author": "やちゃじゃくや",
+            "resource": "Guruguru.png"
+        },
+        {
+            "name": "嫌がり",
+            "author": "やちゃじゃくや",
+            "resource": "Iyagari.png"
+        },
+        {
+            "name": "ウィンク",
+            "author": "やちゃじゃくや",
+            "resource": "WinkFace.png"
+        },
+        {
+            "name":"通信状況",
+            "author":"やちゃじゃくや",
+            "resource":"Wi-Fi.png"
+        },
+        {
+            "name":"ぽけぇ",
+            "author":"やちゃじゃくや",
+            "resource":"Poke-.png"
+        },
+        {
+            "name":"ぺろん",
+            "author":"やちゃじゃくや",
+            "resource":"Peron.png"
+        },
+        {
+            "name":"キラリ",
+            "author":"やちゃじゃくや",
+            "resource":"Kirari.png"
+        },
+        {
+            "name":"休憩時間",
+            "author":"やちゃじゃくや",
+            "resource":"BreakTime.png"
+        },
+        {
+            "name":"MusicTime",
+            "author":"やちゃじゃくや",
+            "resource":"YJ_Music.png"
+        },
+        {
+            "name":"あのサングラス?",
+            "author":"やちゃじゃくや",
+            "resource":"Blue_SG.png"
+        },
+        {
+            "name":"あのヘアピン",
+            "author":"やちゃじゃくや",
+            "resource":"Hair_PIN.png"
+        },
+        {
+            "name":"Triple Kill Pink",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P1.png"
+        },
+        {
+            "name":"Triple Kill Gray",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P2.png"
+        },
+        {
+            "name":"Triple Kill Maroon",
+            "author":"やちゃじゃくや",
+            "resource":"TK_P3.png"
+        },
+        {
+            "name":"ピンク玉っぽい笑顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_smile.png"
+        },
+        {
+            "name":"ピンク玉っぽい寝顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_sleep.png"
+        },
+        {
+            "name":"ピンク玉っぽいウィンク",
+            "author":"やちゃじゃくや",
+            "resource":"KB_wink.png"
+        },
+        {
+            "name":"ピンク玉っぽい悲しい顔",
+            "author":"やちゃじゃくや",
+            "resource":"KB_sad.png"
+        },
+        {
+            "name":"くらくら",
+            "author":"やちゃじゃくや",
+            "resource":"9kururin.png"
+        },
+        {
+            "name":"応急処置",
+            "author":"やちゃじゃくや",
+            "resource":"Bandband.png"
+        },
+        {
+            "name":"りぼん",
+            "author":"やちゃじゃくや",
+            "resource":"Ribonbonbon.png"
+        },
+        {
+            "name":"SstTAarR",
+            "author":"やちゃじゃくや",
+            "resource":"SstTAarR.png"
+        },
+        {
+            "name":"トンデモな予感",
+            "author":"やちゃじゃくや",
+            "resource":"Tondemo.png"
         }
     ]
 }
