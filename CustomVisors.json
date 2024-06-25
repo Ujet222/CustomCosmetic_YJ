@@ -304,6 +304,24 @@
             "name":"トンデモな予感",
             "author":"やちゃじゃくや",
             "resource":"Tondemo.png"
+        },
+	{
+            "name":"んにゃあ～",
+            "author":"やちゃじゃくや",
+            "package": "YJCosV",
+            "resource":"NyangNyang.png"
+        },
+	{
+            "name":"ねこふぇいす",
+            "author":"やちゃじゃくや",
+            "package": "YJCosV",
+            "resource":"NyangFace.png"
+        },
+	{
+            "name":"フラワーグラス",
+            "author":"やちゃじゃくや",
+            "package": "YJCosV",
+            "resource":"GrassFlower.png"
         }
     ]
 }

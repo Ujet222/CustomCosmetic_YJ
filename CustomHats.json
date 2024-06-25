@@ -543,6 +543,123 @@
             "resource": "YJRob.png",
             "climbresource": "YJRob_climb.png"
         },
+	    {
+            "name": "名実ともに最強",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "BlackImposter.png",
+            "climbresource": "BlackImposter_climb.png"
+        },
+	{
+            "name": "引き絞って",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "Bow_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name": "キャンドルライター",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "CandleLighter.png",
+            "adaptive": true
+        },
+	{
+            "name": "どこどん",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "MyBachi.png",
+            "adaptive": true
+        },
+	{
+            "name": "暑さをしのぐ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "IceCandy.png",
+            "adaptive": true
+        },
+	{
+            "name": "しらす",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "Sirasu.png",
+            "climbresource": "Sirasu_climb.png"
+        },
+	{
+            "name": "隊列のリーダー",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "Olimer_adaptive.png",
+            "climbresource": "Olimer_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name":"バグ",
+            "author":"やちゃじゃくや",
+            "package": "YJCos",
+            "condition":"None",
+            "resource":"Glitch.png",
+            "climbresource":"Glitch_climb.png"
+        },
+	{
+            "name": "謎に包まれ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "MysteryCrew.png",
+            "climbresource": "MysteryCrew_climb.png"
+        },
+	{
+            "name": "引き寄せ切り",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "FishRod_adaptive.png",
+            "adaptive": true
+        },
+	{
+            "name": "仮想空間のウィンドウ",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "V_Window.png",
+            "climbresource": "V_Window.png"
+        },
+	{
+            "name": "むりつむり",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "SnailCrew.png",
+            "climbresource": "SnailCrew_climb.png"
+        },
+        {
+            "name": "Error!",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Error.png",
+            "flipresource": "YJ_Error_Flip.png",
+        },
+        {
+            "name": "ここにテキストを入力",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Text.png",
+            "flipresource": "YJ_Text_Flip.png",
+        },
+	{
+            "name": "ボックス",
+            "author": "やちゃじゃくや",
+            "package": "YJCos",
+            "resource": "YJ_Box.png",
+            "climbresource": "YJ_Box.png"
+        },
+        {
+            "name":"色付きはちやま（59）",
+            "author":"やちゃじゃくや",
+            "package": "YJCos",
+            "condition": "None",
+            "resource": "8ee_adaptive.png",
+            "backresource": "8ee_back_adaptive.png",
+            "climbresource": "8ee_climb_adaptive.png",
+            "adaptive": true
+        },
         {
             "name": "白桜",
             "author": "やちゃじゃくや",
